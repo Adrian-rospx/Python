@@ -6,4 +6,6 @@ balance the time I spend in C++ with a higher-level
 language  
 Repository started on the 10th of March 2025
 
-- Collections: Lists, Tuples and Sets -Mar-10
+
+- Exception Handling - Mar-11
+- Collections: Lists, Tuples and Sets - Mar-10
