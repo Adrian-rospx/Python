@@ -9,4 +9,7 @@ Repository started on the 10th of March 2025
 
 - type conversion - Mar-11
 - Exception Handling - Mar-11
-- Collections: Lists, Tuples and Sets - Mar-10
+
+#### Collections:
+- Dictionaries - Mar-12
+- Lists, Tuples and Sets - Mar-10
