@@ -1,3 +1,5 @@
+# inheritence means a child object inherits
+# aspects of its parent class (methods, attributes)
 
 class Vehicle:
     def __init__(self, speed, year):
@@ -6,7 +8,7 @@ class Vehicle:
 
     def start(self):
         print("You started the vehicle")
-
+    
     def data(self):
         print(f"The vehicle is from {self.year}.")
 
