@@ -8,10 +8,14 @@ Repository started on the 10th of March 2025
 
 - iterators - Mar-15
 - inheritence - Mar-15
-- lambda functions - Mar-15
 - type conversion - Mar-11
 - Exception Handling - Mar-11
 
 #### Collections:
 - Dictionaries - Mar-12
 - Lists, Tuples and Sets - Mar-10
+- List comprehensions - Mar-16
+
+#### Functions:
+- Wrappers and Decorators - Mar-16
+- lambda functions - Mar-15
