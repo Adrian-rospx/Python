@@ -1,5 +1,8 @@
 import numpy as np
 
+# Numpy documentation
+# https://numpy.org/doc/stable/
+
 # NumPy (Numerical Python) is a fundamental Python library for 
 # data manipulation and matrix/array computatons
 

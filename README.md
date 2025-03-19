@@ -11,6 +11,12 @@ Repository started on the 10th of March 2025
 - type conversion - Mar-11
 - Exception Handling - Mar-11
 
+#### Numpy
+- Reshaping arrays and adding new axis
+- Array attributes, concatenation, sorting
+- Array initialisation
+- Difference between lists and numpy arrays 
+
 #### Collections:
 
 - Lists, Tuples and Sets - Mar-10
