@@ -12,7 +12,10 @@ Repository started on the 10th of March 2025
 - Exception Handling - Mar-11
 
 #### Numpy
-- Reshaping arrays and adding new axis
+
+[Numpy Documentation](https://numpy.org/doc/stable/)
+- Indexing and slicing
+- Reshaping arrays and adding new axes
 - Array attributes, concatenation, sorting
 - Array initialisation
 - Difference between lists and numpy arrays 
