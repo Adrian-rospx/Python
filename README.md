@@ -12,10 +12,12 @@ Repository started on the 10th of March 2025
 - Exception Handling - Mar-11
 
 #### Collections:
-- Dictionaries - Mar-12
+
 - Lists, Tuples and Sets - Mar-10
+- Dictionaries - Mar-12
 - List comprehensions - Mar-16
 
 #### Functions:
+
 - Wrappers and Decorators - Mar-16
 - lambda functions - Mar-15
