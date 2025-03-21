@@ -7,7 +7,6 @@ ones = np.ones((2,4), dtype=int)
 # perform addition between arrays:
 add = data + ones
 print(add)
-
 # perform all basic operations:
 sub = data - ones
 mult = data*ones*2
@@ -23,3 +22,22 @@ print(s)
 print(data.sum(axis=0))
 # over columns:
 print(data.sum(axis=1))
+
+# scalar multiplication, called BROADCASTING
+print(10 * data)
+
+# useful operations:
+print(data.max())
+print(data.min(axis=1))
+print(data.sum())
+
+# aggregation functions
+# mean:
+mean = np.mean(data)
+print(mean)
+# prod (result of multiplying elements):
+prod = np.prod(data)
+print(prod)
+# std - standard deviation
+std = np.std(data)
+print(std)

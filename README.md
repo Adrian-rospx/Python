@@ -14,6 +14,7 @@ Repository started on the 10th of March 2025
 #### Numpy
 
 [Numpy Documentation](https://numpy.org/doc/stable/)
+- basic array operations, useful functions - Mar-20
 - Indexing and slicing - Mar-19
 - Reshaping arrays and adding new axes
 - Array attributes, concatenation, sorting
