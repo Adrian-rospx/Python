@@ -1,5 +1,6 @@
 import numpy as np
 
+
 data = np.array([[1,6,5,4],
                  [9,4,7,3]])
 ones = np.ones((2,4), dtype=int)
@@ -25,6 +26,9 @@ print(data.sum(axis=1))
 
 # scalar multiplication, called BROADCASTING
 print(10 * data)
+
+# broadcasting: performing operations on differently sized arrays
+print (np.array([1,6,4,5]) * 2)
 
 # useful operations:
 print(data.max())
