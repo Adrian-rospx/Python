@@ -6,7 +6,6 @@ balance the time I spend in C++ with a higher-level
 language  
 *Repository started on the 10th of March 2025*
 
-- iterators - Mar-15
 - inheritence - Mar-15
 - type conversion - Mar-11
 - Exception Handling - Mar-11
@@ -25,9 +24,11 @@ language
 
 - Lists, Tuples and Sets - Mar-10
 - Dictionaries - Mar-12
+- iterators - Mar-15
 - List comprehensions - Mar-16
 
 #### Functions:
 
-- Wrappers and Decorators - Mar-16
 - lambda functions - Mar-15
+- Wrappers and Decorators - Mar-16
+- generators - Apr-04
